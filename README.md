@@ -1,2 +1,5 @@
 # Visual-Prompt-Studio
-This is my prompt portfolio for my Art Appreciation Class
+
+**name** Jasmin Briones
+**course** Art Appreciation Section 1301-154
+**description** This is my prompt portfolio for my Art Appreciation Class
