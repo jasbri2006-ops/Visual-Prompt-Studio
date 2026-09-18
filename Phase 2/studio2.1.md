@@ -1,1 +1,1 @@
-second phase here
+**assignment tittle** Exploring Medium Through Prompt Variation
